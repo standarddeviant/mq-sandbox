@@ -1,5 +1,6 @@
 
-./receiver
-./sender
 receiver
 sender
+recv
+send
+unlink

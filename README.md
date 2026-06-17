@@ -1,6 +1,6 @@
 
 # mq-sandbox
-This is a basic example of using message queues for IPC on linux.
+This is a basic example of using message queues for IPC on Linux.
 
 # YOLO Instructions
 
